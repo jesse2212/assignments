@@ -8,3 +8,6 @@ https://github.com/jesse2212/assignments/blob/master/assignment3%20(2).ipynb
 
 Assignment 4: 
 https://github.com/jesse2212/assignments/blob/master/assignment4%20(2).ipynb
+
+Graded Assignment 1: 
+https://github.com/jesse2212/assignments/blob/master/Graded_assignment1%20(1).ipynb
