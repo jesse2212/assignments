@@ -11,3 +11,6 @@ https://github.com/jesse2212/assignments/blob/master/assignment4%20(2).ipynb
 
 Graded Assignment 1: 
 https://github.com/jesse2212/assignments/blob/master/Graded_assignment1%20(1).ipynb
+
+Graded Assignment 2:
+https://github.com/jesse2212/assignments/blob/master/Graded_assignment_2%20(2).ipynb
