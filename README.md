@@ -15,5 +15,8 @@ https://github.com/jesse2212/assignments/blob/master/Graded_assignment1%20(1).ip
 Graded Assignment 2:
 https://github.com/jesse2212/assignments/blob/master/Graded_assignment_2%20(2).ipynb
 
-Exam Python:
+Exam R:
 https://github.com/jesse2212/assignments/blob/master/Exam_student%20(1).ipynb
+
+Exam Python:
+https://github.com/jesse2212/assignments/blob/master/exam_june_7_2018%20(2).ipynb
